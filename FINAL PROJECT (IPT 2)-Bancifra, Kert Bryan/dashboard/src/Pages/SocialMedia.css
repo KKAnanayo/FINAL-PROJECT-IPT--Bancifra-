@@ -1,0 +1,12 @@
+.SocialMedia-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    padding-top: 120px; 
+  }
+  .Social-Title{
+    margin-top: 5vh;
+    align-self: center;
+  }
